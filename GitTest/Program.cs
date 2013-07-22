@@ -14,6 +14,7 @@ namespace GitTest
 		[STAThread]
 		static void Main()
 		{
+			// test test test
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
